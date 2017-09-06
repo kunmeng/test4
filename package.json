@@ -1,0 +1,27 @@
+{
+  "name": "vue-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --inline --hot --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+"devDependencies": {
+  "vue": "^1.0.26",
+  "vue-loader": "^8.5.3",
+  "vue-router": "^0.7.13",
+  "webpack": "^1.13.1",
+  "webpack-dev-server": "^1.14.1",
+    "vue-hot-reload-api": "^1.3.3",
+    "vue-html-loader": "^1.2.3",
+    "babel-core": "^6.13.2",
+    "babel-loader": "^6.2.4",
+    "babel-plugin-transform-runtime": "^6.12.0",
+    "babel-preset-es2015": "^6.13.2",
+    "vue-style-loader": "^1.0.0",
+    "css-loader": "^0.25.0"
+}  
+}
